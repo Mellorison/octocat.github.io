@@ -4,9 +4,9 @@ Game Developer: Job Description, Duties and Requirements
 
 Learn about the education and preparation needed to become a game developer. Get a quick view of the requirements as well as details about degree programs, job duties and necessary skills to find out if this is the career for you.
 
-View 10 Popular Schools  »
 
-A degree in software engineering, computer science or a related field is typically required to become a game developer. Game developers must be proficient in programming languages, such as java or C++.
+A degree in software engineering, computer science or a related field is typically required to become a game developer. Game developers must be proficient in programming languages, such as C#, java or C++.
+
 Essential Information
 
 Game developers design and create video games for computers and video game consoles. They are involved in the conception as well as the execution of the game creation. While education requirements vary based on employers, many prospective game developers seek a bachelor's degree in computer science, software engineering or a related field.
